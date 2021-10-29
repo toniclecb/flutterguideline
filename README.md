@@ -75,3 +75,4 @@ https://flutter.dev/docs/development/ui/widgets
 https://verygood.ventures/blog/top-flutter-dart-packages
 
 https://fluttergems.dev
+https://app.diagrams.net
