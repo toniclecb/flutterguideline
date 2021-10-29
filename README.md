@@ -1,26 +1,36 @@
 # Flutter Guideline
 Guide to choosing packages to use in your Flutter project
 
-Splash Screen
-Http
-  Http https://pub.dev/packages/http
-  Dio https://pub.dev/packages/dio
-State Management
-Routing
-Images
-Videos
-Audio
-Carousel
-QR Code
-Ad Serving
-Analytics
-Gps - Geolocation
-Authentication
-Battery
-Widgets
-Animation
-Games
-Text to Speech
+##### Splash Screen
+- Flutter native splash https://pub.dev/packages/flutter_native_splash
+##### Http
+- Http https://pub.dev/packages/http
+- Dio https://pub.dev/packages/dio
+##### State Management
+- Get https://pub.dev/packages/get
+- Provider https://pub.dev/packages/provider
+- Flutter Bloc https://pub.dev/packages/flutter_bloc
+- RxDart https://pub.dev/packages/rxdart
+- Bloc https://pub.dev/packages/bloc
+- Mobx https://pub.dev/packages/mobx
+- Flutter Modular https://pub.dev/packages/flutter_modular
+##### Routing
+- https://pub.dev/packages/auto_route
+- https://pub.dev/packages/fluro
+##### Images
+##### Videos
+##### Audio
+##### Carousel
+##### QR Code
+##### Ad Serving
+##### Analytics
+##### Gps - Geolocation
+##### Authentication
+##### Battery
+##### Widgets
+##### Animation
+##### Games
+##### Text to Speech
 Voice
 Files
 File system
