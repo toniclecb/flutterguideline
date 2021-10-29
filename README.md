@@ -1,6 +1,8 @@
 # Flutter Guideline
 Guide to choosing packages to use in your Flutter project
 
+Local App | Online App | Web App
+
 ##### Splash Screen
 - Flutter native splash https://pub.dev/packages/flutter_native_splash
 ##### Http
