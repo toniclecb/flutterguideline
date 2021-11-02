@@ -17,46 +17,63 @@ Local App | Online App | Web App
 - Mobx https://pub.dev/packages/mobx
 - Flutter Modular https://pub.dev/packages/flutter_modular
 ##### Routing
-- https://pub.dev/packages/auto_route
-- https://pub.dev/packages/fluro
+- Auto rote https://pub.dev/packages/auto_route
+- Fluro https://pub.dev/packages/fluro
 ##### Images
+- Cached network image https://pub.dev/packages/cached_network_image
+- Flutter SVG https://pub.dev/packages/flutter_svg
 ##### Videos
+- Video player https://pub.dev/packages/video_player
 ##### Audio
-##### Carousel
+- Just audio https://pub.dev/packages/just_audio
+- Audioplayers https://pub.dev/packages/audioplayers
+- Fluuter sound https://pub.dev/packages/flutter_sound
+##### Files
+- File Picker https://pub.dev/packages/file_picker
+##### File system
+##### Permissions
+- Permission handler https://pub.dev/packages/permission_handler
+##### Shared Preferences
+- Shared preferences https://pub.dev/packages/shared_preferences
+##### Device Information
+- Device info https://pub.dev/packages/device_info
+##### Sensors
+
+##### Localization/Internationalization
+https://pub.dev/packages/intl
+##### Local Database
+https://pub.dev/packages/sqflite
+https://pub.dev/packages/hive
+##### Cloud Database
+##### Messaging
+##### Push Notification
+##### JSON
+##### Authentication
 ##### QR Code
 ##### Ad Serving
 ##### Analytics
 ##### Gps - Geolocation
-##### Authentication
 ##### Battery
 ##### Widgets
 ##### Animation
 ##### Games
+##### Carousel
 ##### Text to Speech
 Voice
-Files
-File system
-Permissions
 UUID
-Shared Preferences
-Device Information
-Sensors
-Localization/Internationalization
-Local Database
-Cloud Database
-Messaging
-Push Notification
-JSON
 Android Intent
 Security
 Cryptography
 Payment API
 3D
 Wifi
+https://pub.dev/packages/connectivity_plus
 IoT
 Bluetooth
 Printing
 Sharing
+https://pub.dev/packages/share_plus
+https://pub.dev/packages/url_launcher
 Painting/Signature
 Icons
 Fonts
