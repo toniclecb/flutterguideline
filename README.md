@@ -1,7 +1,18 @@
 # Flutter Guideline
 Guide to choosing packages to use in your Flutter project
 
-Local App | Online App | Web App
+Local App 
+Online App
+Web App
+:fa-desktop:
+:fa-tablet:
+
+IOS :fa-apple:
+MACOS
+WINDOWS :fa-windows:
+ANDROID :fa-android:
+LINUX :fa-linux:
+WEB :fa-html5:
 
 ##### Splash Screen
 - Flutter native splash https://pub.dev/packages/flutter_native_splash
