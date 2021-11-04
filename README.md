@@ -28,70 +28,88 @@ Local App | Online App | Web App
 - Just audio https://pub.dev/packages/just_audio
 - Audioplayers https://pub.dev/packages/audioplayers
 - Fluuter sound https://pub.dev/packages/flutter_sound
-##### Files
+##### Files system
 - File Picker https://pub.dev/packages/file_picker
-##### File system
 ##### Permissions
 - Permission handler https://pub.dev/packages/permission_handler
 ##### Shared Preferences
 - Shared preferences https://pub.dev/packages/shared_preferences
 ##### Device Information
 - Device info https://pub.dev/packages/device_info
+- Path provider https://pub.dev/packages/path_provider
 ##### Sensors
-
+- Sensors https://pub.dev/packages/sensors
 ##### Localization/Internationalization
-https://pub.dev/packages/intl
+- Intl https://pub.dev/packages/intl
 ##### Local Database
-https://pub.dev/packages/sqflite
-https://pub.dev/packages/hive
+- Sqflite https://pub.dev/packages/sqflite
+- Hive https://pub.dev/packages/hive
 ##### Cloud Database
-##### Messaging
-##### Push Notification
-##### JSON
+- Cloud firestore https://pub.dev/packages/cloud_firestore
+- Firebase storage https://pub.dev/packages/firebase_storage
+##### Messaging/Push Notification
+- Firebase messagin https://pub.dev/packages/firebase_messaging
 ##### Authentication
-##### QR Code
+- Firebase auth https://pub.dev/packages/firebase_auth
+- Google sign in https://pub.dev/packages/google_sign_in
+- Local auth https://pub.dev/packages/local_auth
 ##### Ad Serving
+- Firebase admob https://pub.dev/packages/firebase_admob
 ##### Analytics
+- Firebase analytics https://pub.dev/packages/firebase_analytics
 ##### Gps - Geolocation
-##### Battery
-##### Widgets
-##### Animation
+- Geolocator https://pub.dev/packages/geolocator
+- Google Maps flutter https://pub.dev/packages/google_maps_flutter
+- Location https://pub.dev/packages/location
+##### Wifi
+- Connectivity plus https://pub.dev/packages/connectivity_plus
+- Connectivity https://pub.dev/packages/connectivity
+##### Sharing
+- Share plus https://pub.dev/packages/share_plus
+- Url laucher https://pub.dev/packages/url_launcher
 ##### Games
+- Flare flutter https://pub.dev/packages/flare_flutter
+- Flame https://pub.dev/packages/flame
+##### Icons
+- Font awesome flutter https://pub.dev/packages/font_awesome_flutter
+##### Fonts
+- Google fonts https://pub.dev/packages/google_fonts
+##### Animation
+- Animantions https://pub.dev/packages/animations
+- Animate do https://pub.dev/packages/animate_do
+##### Voice/Text to Speech/Speech to Text
+- Flutter tts https://pub.dev/packages/flutter_tts
+- Speech to text https://pub.dev/packages/speech_to_text
+##### UUID
+- Uuid https://pub.dev/packages/uuid
+##### Bluetooth
+- Flutter blue https://pub.dev/packages/flutter_blue
+##### Html
+- Flutter html https://pub.dev/packages/flutter_html
+##### PDF
+- PDf https://pub.dev/packages/pdf
+##### JSON
+##### QR Code
+##### Battery
+##### Math
+##### Widgets
 ##### Carousel
-##### Text to Speech
-Voice
-UUID
-Android Intent
-Security
-Cryptography
-Payment API
-3D
-Wifi
-https://pub.dev/packages/connectivity_plus
-IoT
-Bluetooth
-Printing
-Sharing
-https://pub.dev/packages/share_plus
-https://pub.dev/packages/url_launcher
-Painting/Signature
-Icons
-Fonts
-Emoji/Rich Text
-Autoformat / Masking / Validation
-Acessibility
-Math
-Ecosystem
+##### Acessibility
+##### Printing
+##### Painting/Signature
 
-Developer Tools
-Testing
-Debugging
+##### Firebase ecosystem
+https://pub.dev/packages/firebase_auth
+https://pub.dev/packages/cloud_firestore
+https://pub.dev/packages/firebase_messaging
+
+##### Utils
+https://pub.dev/packages/flutter_downloader
+
+##### Developer Tools
+##### Testing
+##### Debugging
 
 Fonts:
-https://www.bacancytechnology.com/blog/best-flutter-libraries-tools-packages-and-plugins
-https://dev.to/theotherdevs/flutter-essentials-get-started-with-great-libraries-2ah
-https://flutter.dev/docs/development/ui/widgets
-https://verygood.ventures/blog/top-flutter-dart-packages
-
 https://fluttergems.dev
 https://app.diagrams.net
