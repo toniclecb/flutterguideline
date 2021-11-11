@@ -7,12 +7,18 @@ Web App
 :fa-desktop:
 :fa-tablet:
 
-IOS :fa-apple:
+IOS
+:fa-apple:
 MACOS
-WINDOWS :fa-windows:
-ANDROID :fa-android:
-LINUX :fa-linux:
-WEB :fa-html5:
+WINDOWS
+:fa-windows:
+ANDROID
+:fa-android:
+LINUX
+:fa-linux:
+WEB
+:fa-html5:
+
 
 ##### Splash Screen
 - Flutter native splash https://pub.dev/packages/flutter_native_splash
@@ -39,8 +45,10 @@ WEB :fa-html5:
 - Just audio https://pub.dev/packages/just_audio
 - Audioplayers https://pub.dev/packages/audioplayers
 - Fluuter sound https://pub.dev/packages/flutter_sound
-##### Files system
+##### Files
 - File Picker https://pub.dev/packages/file_picker
+- https://github.com/fluttercommunity/flutter_downloader
+- https://github.com/fluttercommunity/flutter_uploader
 ##### Permissions
 - Permission handler https://pub.dev/packages/permission_handler
 ##### Shared Preferences
@@ -81,10 +89,9 @@ WEB :fa-html5:
 ##### Games
 - Flare flutter https://pub.dev/packages/flare_flutter
 - Flame https://pub.dev/packages/flame
-##### Icons
-- Font awesome flutter https://pub.dev/packages/font_awesome_flutter
-##### Fonts
+##### Icons/Fonts
 - Google fonts https://pub.dev/packages/google_fonts
+- Font awesome flutter https://pub.dev/packages/font_awesome_flutter
 ##### Animation
 - Animantions https://pub.dev/packages/animations
 - Animate do https://pub.dev/packages/animate_do
@@ -99,27 +106,45 @@ WEB :fa-html5:
 - Flutter html https://pub.dev/packages/flutter_html
 ##### PDF
 - PDf https://pub.dev/packages/pdf
+##### QR Code/Bar Code
+- https://pub.dev/packages/qr_flutter
+- https://pub.dev/packages/qr_code_scanner
 ##### JSON
-##### QR Code
+- https://pub.dev/packages/json_serializable
 ##### Battery
+- https://pub.dev/packages/battery_plus
+##### Contacts
+- https://github.com/fluttercommunity/flutter_contacts
+##### SMS/MMS
+- https://github.com/fluttercommunity/flutter_sms
 ##### Math
 ##### Widgets
-##### Carousel
-##### Acessibility
 ##### Printing
+https://pub.dev/packages/printing
 ##### Painting/Signature
-
+- https://pub.dev/packages/signature
 ##### Firebase ecosystem
 https://pub.dev/packages/firebase_auth
 https://pub.dev/packages/cloud_firestore
 https://pub.dev/packages/firebase_messaging
-
-##### Utils
-https://pub.dev/packages/flutter_downloader
-
 ##### Developer Tools
+- https://pub.dev/packages/pedantic
+- https://pub.dev/packages/lint
+- https://pub.dev/packages/adobe_xd
+##### Language extensions
+- https://pub.dev/packages/equatable
+- https://pub.dev/packages/supercharged
+- https://pub.dev/packages/dartz
+- https://pub.dev/packages/built_value
+- https://pub.dev/packages/catcher
 ##### Testing
-##### Debugging
+- https://pub.dev/packages/device_preview
+- https://pub.dev/packages/mockito
+- https://pub.dev/packages/faker
+- https://pub.dev/packages/device_simulator
+##### Debugging/Logging
+- https://pub.dev/packages/logger
+
 
 Fonts:
 https://fluttergems.dev
